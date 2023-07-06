@@ -1,0 +1,12 @@
+E:\Projeler\Blazor\Net7\Backend\Business\bin\Debug\net7.0\Business.deps.json
+E:\Projeler\Blazor\Net7\Backend\Business\bin\Debug\net7.0\Business.dll
+E:\Projeler\Blazor\Net7\Backend\Business\bin\Debug\net7.0\Business.pdb
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\Business.dll
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\refint\Business.dll
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\Business.pdb
+E:\Projeler\Blazor\Net7\Backend\Business\obj\Debug\net7.0\ref\Business.dll

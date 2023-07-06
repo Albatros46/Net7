@@ -1,0 +1,12 @@
+E:\Projeler\Blazor\Net7\Backend\Base\bin\Debug\net7.0\Base.deps.json
+E:\Projeler\Blazor\Net7\Backend\Base\bin\Debug\net7.0\Base.dll
+E:\Projeler\Blazor\Net7\Backend\Base\bin\Debug\net7.0\Base.pdb
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\Base.csproj.AssemblyReference.cache
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\Base.AssemblyInfoInputs.cache
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\Base.AssemblyInfo.cs
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\Base.csproj.CoreCompileInputs.cache
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\Base.dll
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\refint\Base.dll
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\Base.pdb
+E:\Projeler\Blazor\Net7\Backend\Base\obj\Debug\net7.0\ref\Base.dll

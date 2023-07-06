@@ -1,0 +1,15 @@
+E:\Projeler\Blazor\Net7\Backend\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\Projeler\Blazor\Net7\Backend\Entities\bin\Debug\net7.0\Entities.dll
+E:\Projeler\Blazor\Net7\Backend\Entities\bin\Debug\net7.0\Entities.pdb
+E:\Projeler\Blazor\Net7\Backend\Entities\bin\Debug\net7.0\Base.dll
+E:\Projeler\Blazor\Net7\Backend\Entities\bin\Debug\net7.0\Base.pdb
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\Entities.dll
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\Entities.pdb
+E:\Projeler\Blazor\Net7\Backend\Entities\obj\Debug\net7.0\ref\Entities.dll
