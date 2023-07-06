@@ -11,5 +11,6 @@ namespace Entities.Entities
     {//Kullanici yetkileri burda olacak.Der  Benutzer rule hier beschreiben
         public virtual int Id { get; set; }
         public virtual string Name { get; set; }
+        public virtual string Description { get; set; }
     }
 }
