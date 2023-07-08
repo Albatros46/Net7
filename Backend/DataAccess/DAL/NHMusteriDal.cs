@@ -17,5 +17,13 @@ namespace DataAccess.DAL
         {
             _hibarnateHelper= nHibarnateHelper;
         }
+
+        public List<Musteri> Paging(int skip, int take)
+        {
+            using (var session=_hibarnateHelper.OpenSession())
+            {
+                return session.Query<Musteri>().OrderBy(p=>p.FullName).Skip(skip).Take(take).ToList();
+            }
+        }
     }
 }

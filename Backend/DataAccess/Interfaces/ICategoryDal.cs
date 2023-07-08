@@ -10,6 +10,6 @@ namespace DataAccess.Interfaces
 {
     public interface ICategoryDal:IRepositoryService<Category>
     {
-
+        List<Category> Paging(int skip,int take);
     }
 }

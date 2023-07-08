@@ -17,5 +17,13 @@ namespace DataAccess.DAL
         {
             _hibarnateHelper= nHibarnateHelper;
         }
+
+        public List<Category> Paging(int skip, int take)
+        {
+            using (var session=_hibarnateHelper.OpenSession())
+            {
+                return session.Query<Category>().OrderBy(p => p.Name).Skip(skip).Take(take).ToList();
+            }
+        }
     }
 }

@@ -10,5 +10,6 @@ namespace DataAccess.Interfaces
 {
     public interface ISatisDal:IRepositoryService<Satis>
     {
+        List<Satis> Paging(int skip, int take);
     }
 }

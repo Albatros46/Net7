@@ -21,7 +21,7 @@ namespace DataAccess.DAL
         }
 
         public void DeleteList(List<Sehirler> silinecekSehirler)
-        {
+        {//Coklu silme islemi icin kullanilacak
             using (var session=_hibarnateHelper.OpenSession())
             {
                 foreach (var item in silinecekSehirler)

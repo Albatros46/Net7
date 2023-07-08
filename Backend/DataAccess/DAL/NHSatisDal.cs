@@ -19,5 +19,13 @@ namespace DataAccess.DAL
             _hibarnateHelper = nHibarnateHelper;
 
         }
+
+        public List<Satis> Paging(int skip, int take)
+        {
+            using (var session = _hibarnateHelper.OpenSession())
+            {//OrderByDescending =enson eklenene gore listele
+                return session.Query<Satis>().OrderByDescending(p=>p.Id).Skip(skip).Take(take).ToList();
+            }
+        }
     }
 }

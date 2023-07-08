@@ -1,4 +1,5 @@
-﻿using Base.DB.Interface;
+﻿using Antlr.Runtime.Tree;
+using Base.DB.Interface;
 using Entities.Entities;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ namespace DataAccess.Interfaces
 {
     public interface IMusteriDal:IRepositoryService<Musteri>
     {
+        List<Musteri> Paging(int skip,int take);
 
     }
 }
